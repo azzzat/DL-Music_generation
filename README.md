@@ -48,7 +48,6 @@ The model consists of:
 
 ## 🎧 Sample Generated Music
 You can listen to a sample generated melody here:
-![ClassicDJ](ClassicDJ.jpg)
 <video src="https://github.com/user-attachments/assets/1c138f27-6838-4113-a5ba-c2d1c6c1ceda" 
        width="5300" height="200" loop muted preload="metadata" poster="ClassicDJ.jpg" />
 
@@ -62,3 +61,6 @@ This project utilizes open-source datasets from Kaggle and libraries like Tensor
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+
+![ClassicDJ](ClassicDJ.jpg)
