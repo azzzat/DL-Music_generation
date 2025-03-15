@@ -50,6 +50,11 @@ The model consists of:
 You can listen to a sample generated melody here:
 https://github.com/user-attachments/assets/1c138f27-6838-4113-a5ba-c2d1c6c1ceda
 
+<audio controls>
+  <source src="https://github.com/user-attachments/assets/1c138f27-6838-4113-a5ba-c2d1c6c1ceda" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 
 ## 🔮 Future Improvements
 - 🎷 Train on a more diverse dataset including jazz and pop music.
