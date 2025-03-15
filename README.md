@@ -48,10 +48,8 @@ The model consists of:
 
 ## 🎧 Sample Generated Music
 You can listen to a sample generated melody here:
-https://github.com/user-attachments/assets/1c138f27-6838-4113-a5ba-c2d1c6c1ceda
 
-yep:
-<video src="https://github.com/user-attachments/assets/1c138f27-6838-4113-a5ba-c2d1c6c1ceda" width="300" />
+<video src="https://github.com/user-attachments/assets/1c138f27-6838-4113-a5ba-c2d1c6c1ceda" height="20" width="300" />
 
 
 ## 🔮 Future Improvements
