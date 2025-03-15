@@ -49,7 +49,7 @@ The model consists of:
 ## 🎧 Sample Generated Music
 You can listen to a sample generated melody here:
 
-[▶️ Listen to the generated melody](generated_melody.wav)
+[▶️ Listen to the generated melody](generated_melody.mp3)
 
 ## 🔮 Future Improvements
 - 🎷 Train on a more diverse dataset including jazz and pop music.
