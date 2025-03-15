@@ -46,6 +46,10 @@ The model consists of:
 - ✅ The model successfully generates MIDI compositions that follow the harmonic structures of the training dataset.
 - 📊 Visualization of chord distributions helps in understanding common patterns in classical music.
 
+## 🎧 Sample Generated Music
+You can listen to a sample generated melody here:
+
+[▶️ Listen to the generated melody](generated_melody.wav)
 
 ## 🔮 Future Improvements
 - 🎷 Train on a more diverse dataset including jazz and pop music.
